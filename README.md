@@ -2,6 +2,5 @@
 
 **Name:** Zachary Carroll  
 
-  **Grade:** 12
-  
-   #Summary#
+  **Grade:** 12 
+## Sumary ##
