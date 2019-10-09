@@ -1,8 +1,8 @@
 # About-Me
 <About Zachary J. Carroll>
-  *Name: Zachary J. Carroll
+  **Name:** Zachary J. Carroll
  
-  *Grade:12
+  **Grade:**12
   <Summary>
     Hey! I'm Zachary, you can call me Zack if you want to
     
