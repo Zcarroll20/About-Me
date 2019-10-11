@@ -17,3 +17,6 @@ In my three bedroom house hld I have six people living with me. MY grandparents 
 
 ## Skills
 I dont have any good skills. I can sleep pretty weill I guess Im good at math and remembering stupid fact about stupid things like science.
+
+![Bed](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAwIcXPDOI15hHPSgbaZwEhKmO4F5aLbhvKtnp2ohVCTVgJLS8IQ)
+
