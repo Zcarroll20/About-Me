@@ -20,3 +20,7 @@ I dont have any good skills. I can sleep pretty weill I guess Im good at math an
 
 ![Bed](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAwIcXPDOI15hHPSgbaZwEhKmO4F5aLbhvKtnp2ohVCTVgJLS8IQ)
 
+## Hobbies
+I have very few hobbies. I like to play Videogames and sleeep. I'm really good at it!
+
+![PS4](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtM-ExAYC7QA5b0lWjtOea4JMoNnzv405w-f5uo4NdPVhjFHaz)
